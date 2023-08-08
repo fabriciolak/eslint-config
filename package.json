@@ -1,10 +1,13 @@
 {
-  "name": "fabriciolak-eslint-config",
-  "version": "1.0.0",
+  "name": "@own-config/eslint-config",
+  "version": "1.0.1",
   "description": "Custom ESLint configuration used for my personal projects.",
+  "private": false,
   "main": "index.js",
   "license": "MIT",
-  "private": false,
+  "repository": {
+    "url": "fabriciolak/eslint-config"
+  },
   "peerDependencies": {
     "eslint": "^8.0.0",
     "typescript": ">=4"
