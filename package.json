@@ -4,6 +4,7 @@
   "description": "Custom ESLint configuration used for my personal projects.",
   "main": "index.js",
   "license": "MIT",
+  "private": false,
   "peerDependencies": {
     "eslint": "^8.0.0",
     "typescript": ">=4"
