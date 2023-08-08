@@ -1,5 +1,5 @@
 {
-  "name": "@fabriciolak/eslint-config",
+  "name": "fabriciolak-eslint-config",
   "version": "1.0.0",
   "description": "Custom ESLint configuration used for my personal projects.",
   "main": "index.js",
